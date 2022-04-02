@@ -1,0 +1,30 @@
+.room_form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+}
+.title{
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.roomInput{
+    margin: 20px 0;
+    outline: none;
+    border: 1px solid green;
+    padding: 10px;
+    font-size: 15px;
+}
+.submit-btn{
+    padding: 15px;
+    background-color: green;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+ }
